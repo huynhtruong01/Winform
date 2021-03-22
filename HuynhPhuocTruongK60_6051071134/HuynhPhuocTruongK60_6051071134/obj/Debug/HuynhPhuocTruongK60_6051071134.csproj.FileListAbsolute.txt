@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\HuynhPhuocTruongK60_6051071134\HuynhPhuocTruongK60_6051071134\obj\Debug\HuynhPhuocTruongK60_6051071134.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\HuynhPhuocTruongK60_6051071134\HuynhPhuocTruongK60_6051071134\obj\Debug\HuynhPhuocTruongK60_6051071134.Form1.resources
+C:\Users\HP\source\repos\HuynhPhuocTruongK60_6051071134\HuynhPhuocTruongK60_6051071134\obj\Debug\HuynhPhuocTruongK60_6051071134.Properties.Resources.resources
+C:\Users\HP\source\repos\HuynhPhuocTruongK60_6051071134\HuynhPhuocTruongK60_6051071134\obj\Debug\HuynhPhuocTruongK60_6051071134.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\HuynhPhuocTruongK60_6051071134\HuynhPhuocTruongK60_6051071134\obj\Debug\HuynhPhuocTruongK60_6051071134.csproj.CoreCompileInputs.cache
